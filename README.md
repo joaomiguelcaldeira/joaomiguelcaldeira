@@ -1,15 +1,12 @@
 # Hi! Welcome to my GitHub Profile 👋
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=joaomiguelcaldeira&icon=3&color=0)](https://visitcount.itsvg.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-miguel-caldeira/) [![Visitor Count](https://komarev.com/ghpvc/?username=joaomiguelcaldeira&color=blue)](https://github.com/joaomiguelcaldeira)
 
 ## About Me
 
 🎓 **MSc. Computer Science Engineering** @ [Instituto Superior Técnico](https://tecnico.ulisboa.pt)  
 *Masters Thesis:* Exploring advanced applications of Machine Learning for financial data forecasting.
 
-💻 Passionate about problem-solving, I see programming as my toolkit for creating and innovating.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-miguel-caldeira/)
+💡 Passionate about problem-solving, I see programming as my toolkit for creating and innovating.
 
 ## 💻 Tech Stack
 
